@@ -1,8 +1,14 @@
 [class^="icon-led-"],
 [class*=" icon-led-"] {
-  width: 16px;
-  height: 16px;
-  background-image: url("../img/led-icons.png");
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-top: 1px;
+    *margin-right: .3em;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../img/led-icons.png");
+    background-repeat: no-repeat;
 }
 
 .icon-led-accept{
