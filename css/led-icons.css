@@ -1,0 +1,2063 @@
+[class^="icon-led-"],
+[class*=" icon-led-"] {
+  width: 16px;
+  height: 16px;
+  background-image: url("../img/led-icons.png");
+}
+
+.icon-led-accept{
+    background-position: 0 0;
+}
+
+.icon-led-add{
+    background-position: -20px 0;
+}
+
+.icon-led-alarm{
+    background-position: -40px 0;
+}
+
+.icon-led-anchor{
+    background-position: -60px 0;
+}
+
+.icon-led-application{
+    background-position: -80px 0;
+}
+
+.icon-led-application-add{
+    background-position: -100px 0;
+}
+
+.icon-led-application-cascade{
+    background-position: -120px 0;
+}
+
+.icon-led-application-delete{
+    background-position: -140px 0;
+}
+
+.icon-led-application-double{
+    background-position: -160px 0;
+}
+
+.icon-led-application-edit{
+    background-position: -180px 0;
+}
+
+.icon-led-application-error{
+    background-position: -200px 0;
+}
+
+.icon-led-application-form{
+    background-position: -220px 0;
+}
+
+.icon-led-application-get{
+    background-position: -240px 0;
+}
+
+.icon-led-application-go{
+    background-position: -260px 0;
+}
+
+.icon-led-application-home{
+    background-position: -280px 0;
+}
+
+.icon-led-application-key{
+    background-position: -300px 0;
+}
+
+.icon-led-application-lightning{
+    background-position: -320px 0;
+}
+
+.icon-led-application-link{
+    background-position: -340px 0;
+}
+
+.icon-led-application-osx{
+    background-position: -360px 0;
+}
+
+.icon-led-application-osx-terminal{
+    background-position: -380px 0;
+}
+
+.icon-led-application-put{
+    background-position: -400px 0;
+}
+
+.icon-led-application-side-boxes{
+    background-position: -420px 0;
+}
+
+.icon-led-application-side-contract{
+    background-position: -440px 0;
+}
+
+.icon-led-application-side-expand{
+    background-position: -460px 0;
+}
+
+.icon-led-application-side-list{
+    background-position: -480px 0;
+}
+
+.icon-led-application-side-tree{
+    background-position: -500px 0;
+}
+
+.icon-led-application-split{
+    background-position: -520px 0;
+}
+
+.icon-led-application-tile-horizontal{
+    background-position: -540px 0;
+}
+
+.icon-led-application-tile-vertical{
+    background-position: -560px 0;
+}
+
+.icon-led-application-view-columns{
+    background-position: -580px 0;
+}
+
+.icon-led-application-view-detail{
+    background-position: -600px 0;
+}
+
+.icon-led-application-view-gallery{
+    background-position: -620px 0;
+}
+
+.icon-led-application-view-icons{
+    background-position: -640px 0;
+}
+
+.icon-led-application-view-list{
+    background-position: -660px 0;
+}
+
+.icon-led-application-view-tile{
+    background-position: -680px 0;
+}
+
+.icon-led-application-view-xp{
+    background-position: -700px 0;
+}
+
+.icon-led-application-view-xp-terminal{
+    background-position: 0 -20px;
+}
+
+.icon-led-application2{
+    background-position: -20px -20px;
+}
+
+.icon-led-arrow-branch{
+    background-position: -40px -20px;
+}
+
+.icon-led-arrow-divide{
+    background-position: -60px -20px;
+}
+
+.icon-led-arrow-in{
+    background-position: -80px -20px;
+}
+
+.icon-led-arrow-inout{
+    background-position: -100px -20px;
+}
+
+.icon-led-arrow-join{
+    background-position: -120px -20px;
+}
+
+.icon-led-arrow-left{
+    background-position: -140px -20px;
+}
+
+.icon-led-arrow-merge{
+    background-position: -160px -20px;
+}
+
+.icon-led-arrow-out{
+    background-position: -180px -20px;
+}
+
+.icon-led-arrow-redo{
+    background-position: -200px -20px;
+}
+
+.icon-led-arrow-refresh{
+    background-position: -220px -20px;
+}
+
+.icon-led-arrow-right{
+    background-position: -240px -20px;
+}
+
+.icon-led-arrow-undo{
+    background-position: -260px -20px;
+}
+
+.icon-led-asterisk-orange{
+    background-position: -280px -20px;
+}
+
+.icon-led-attach{
+    background-position: -300px -20px;
+}
+
+.icon-led-attach-2{
+    background-position: -320px -20px;
+}
+
+.icon-led-award-star-gold{
+    background-position: -340px -20px;
+}
+
+.icon-led-bandaid{
+    background-position: -360px -20px;
+}
+
+.icon-led-basket{
+    background-position: -380px -20px;
+}
+
+.icon-led-bell{
+    background-position: -400px -20px;
+}
+
+.icon-led-bin-closed{
+    background-position: -420px -20px;
+}
+
+.icon-led-blog{
+    background-position: -440px -20px;
+}
+
+.icon-led-blueprint{
+    background-position: -460px -20px;
+}
+
+.icon-led-blueprint-horizontal{
+    background-position: -480px -20px;
+}
+
+.icon-led-bluetooth{
+    background-position: -500px -20px;
+}
+
+.icon-led-bomb{
+    background-position: -520px -20px;
+}
+
+.icon-led-book{
+    background-position: -540px -20px;
+}
+
+.icon-led-book-addresses{
+    background-position: -560px -20px;
+}
+
+.icon-led-book-next{
+    background-position: -580px -20px;
+}
+
+.icon-led-book-open{
+    background-position: -600px -20px;
+}
+
+.icon-led-book-previous{
+    background-position: -620px -20px;
+}
+
+.icon-led-bookmark{
+    background-position: -640px -20px;
+}
+
+.icon-led-bookmark-book{
+    background-position: -660px -20px;
+}
+
+.icon-led-bookmark-book-open{
+    background-position: -680px -20px;
+}
+
+.icon-led-bookmark-document{
+    background-position: -700px -20px;
+}
+
+.icon-led-bookmark-folder{
+    background-position: 0 -40px;
+}
+
+.icon-led-books{
+    background-position: -20px -40px;
+}
+
+.icon-led-box{
+    background-position: -40px -40px;
+}
+
+.icon-led-brick{
+    background-position: -60px -40px;
+}
+
+.icon-led-bricks{
+    background-position: -80px -40px;
+}
+
+.icon-led-briefcase{
+    background-position: -100px -40px;
+}
+
+.icon-led-bug{
+    background-position: -120px -40px;
+}
+
+.icon-led-buildings{
+    background-position: -140px -40px;
+}
+
+.icon-led-bullet-add-1{
+    background-position: -160px -40px;
+    width: 7px;
+    height: 7px;
+}
+
+.icon-led-bullet-add-2{
+    background-position: -180px -40px;
+    width: 7px;
+    height: 7px;
+}
+
+.icon-led-bullet-key{
+    background-position: -200px -40px;
+    width: 10px;
+    height: 10px;
+}
+
+.icon-led-cake{
+    background-position: -220px -40px;
+}
+
+.icon-led-calculator{
+    background-position: -240px -40px;
+}
+
+.icon-led-calendar-1{
+    background-position: -260px -40px;
+}
+
+.icon-led-calendar-2{
+    background-position: -280px -40px;
+}
+
+.icon-led-camera{
+    background-position: -300px -40px;
+}
+
+.icon-led-cancel{
+    background-position: -320px -40px;
+}
+
+.icon-led-car{
+    background-position: -340px -40px;
+}
+
+.icon-led-cart{
+    background-position: -360px -40px;
+}
+
+.icon-led-cd{
+    background-position: -380px -40px;
+}
+
+.icon-led-chart-bar{
+    background-position: -400px -40px;
+}
+
+.icon-led-chart-curve{
+    background-position: -420px -40px;
+}
+
+.icon-led-chart-line{
+    background-position: -440px -40px;
+}
+
+.icon-led-chart-organisation{
+    background-position: -460px -40px;
+}
+
+.icon-led-chart-pie{
+    background-position: -480px -40px;
+}
+
+.icon-led-clipboard-paste-image{
+    background-position: -500px -40px;
+}
+
+.icon-led-clipboard-sign{
+    background-position: -520px -40px;
+}
+
+.icon-led-clipboard-text{
+    background-position: -540px -40px;
+}
+
+.icon-led-clock{
+    background-position: -560px -40px;
+}
+
+.icon-led-cog{
+    background-position: -580px -40px;
+}
+
+.icon-led-coins{
+    background-position: -600px -40px;
+}
+
+.icon-led-color-swatch-1{
+    background-position: -620px -40px;
+}
+
+.icon-led-color-swatch-2{
+    background-position: -640px -40px;
+}
+
+.icon-led-comment{
+    background-position: -660px -40px;
+}
+
+.icon-led-compass{
+    background-position: -680px -40px;
+}
+
+.icon-led-compress{
+    background-position: -700px -40px;
+}
+
+.icon-led-computer{
+    background-position: 0 -60px;
+}
+
+.icon-led-connect{
+    background-position: -20px -60px;
+}
+
+.icon-led-contrast{
+    background-position: -40px -60px;
+}
+
+.icon-led-control-eject{
+    background-position: -60px -60px;
+}
+
+.icon-led-control-end{
+    background-position: -80px -60px;
+}
+
+.icon-led-control-equalizer{
+    background-position: -100px -60px;
+}
+
+.icon-led-control-fastforward{
+    background-position: -120px -60px;
+}
+
+.icon-led-control-pause{
+    background-position: -140px -60px;
+}
+
+.icon-led-control-play{
+    background-position: -160px -60px;
+}
+
+.icon-led-control-repeat{
+    background-position: -180px -60px;
+}
+
+.icon-led-control-rewind{
+    background-position: -200px -60px;
+}
+
+.icon-led-control-start{
+    background-position: -220px -60px;
+}
+
+.icon-led-control-stop{
+    background-position: -240px -60px;
+}
+
+.icon-led-control-wheel{
+    background-position: -260px -60px;
+}
+
+.icon-led-counter{
+    background-position: -280px -60px;
+}
+
+.icon-led-counter-count{
+    background-position: -300px -60px;
+}
+
+.icon-led-counter-count-up{
+    background-position: -320px -60px;
+}
+
+.icon-led-counter-reset{
+    background-position: -340px -60px;
+}
+
+.icon-led-counter-stop{
+    background-position: -360px -60px;
+}
+
+.icon-led-cross{
+    background-position: -380px -60px;
+}
+
+.icon-led-cross-octagon{
+    background-position: -400px -60px;
+}
+
+.icon-led-cross-octagon-fram{
+    background-position: -420px -60px;
+}
+
+.icon-led-cross-shield{
+    background-position: -440px -60px;
+}
+
+.icon-led-cross-shield-2{
+    background-position: -460px -60px;
+}
+
+.icon-led-crown{
+    background-position: -480px -60px;
+}
+
+.icon-led-crown-bronze{
+    background-position: -500px -60px;
+}
+
+.icon-led-crown-silver{
+    background-position: -520px -60px;
+}
+
+.icon-led-css{
+    background-position: -540px -60px;
+}
+
+.icon-led-cursor{
+    background-position: -560px -60px;
+}
+
+.icon-led-cut{
+    background-position: -580px -60px;
+}
+
+.icon-led-dashboard{
+    background-position: -600px -60px;
+}
+
+.icon-led-data{
+    background-position: -620px -60px;
+}
+
+.icon-led-database{
+    background-position: -640px -60px;
+}
+
+.icon-led-databases{
+    background-position: -660px -60px;
+}
+
+.icon-led-delete{
+    background-position: -680px -60px;
+}
+
+.icon-led-delivery{
+    background-position: -700px -60px;
+}
+
+.icon-led-desktop{
+    background-position: 0 -80px;
+}
+
+.icon-led-desktop-empty{
+    background-position: -20px -80px;
+}
+
+.icon-led-direction{
+    background-position: -40px -80px;
+}
+
+.icon-led-disconnect{
+    background-position: -60px -80px;
+}
+
+.icon-led-disk{
+    background-position: -80px -80px;
+}
+
+.icon-led-doc-access{
+    background-position: -100px -80px;
+}
+
+.icon-led-doc-break{
+    background-position: -120px -80px;
+}
+
+.icon-led-doc-convert{
+    background-position: -140px -80px;
+}
+
+.icon-led-doc-excel-csv{
+    background-position: -160px -80px;
+}
+
+.icon-led-doc-excel-table{
+    background-position: -180px -80px;
+}
+
+.icon-led-doc-film{
+    background-position: -200px -80px;
+}
+
+.icon-led-doc-illustrator{
+    background-position: -220px -80px;
+}
+
+.icon-led-doc-music{
+    background-position: -240px -80px;
+}
+
+.icon-led-doc-music-playlist{
+    background-position: -260px -80px;
+}
+
+.icon-led-doc-offlice{
+    background-position: -280px -80px;
+}
+
+.icon-led-doc-page{
+    background-position: -300px -80px;
+}
+
+.icon-led-doc-page-previous{
+    background-position: -320px -80px;
+}
+
+.icon-led-doc-pdf{
+    background-position: -340px -80px;
+}
+
+.icon-led-doc-photoshop{
+    background-position: -360px -80px;
+}
+
+.icon-led-doc-resize{
+    background-position: -380px -80px;
+}
+
+.icon-led-doc-resize-actual{
+    background-position: -400px -80px;
+}
+
+.icon-led-doc-shred{
+    background-position: -420px -80px;
+}
+
+.icon-led-doc-stand{
+    background-position: -440px -80px;
+}
+
+.icon-led-doc-table{
+    background-position: -460px -80px;
+}
+
+.icon-led-doc-tag{
+    background-position: -480px -80px;
+}
+
+.icon-led-doc-text-image{
+    background-position: -500px -80px;
+}
+
+.icon-led-door{
+    background-position: -520px -80px;
+}
+
+.icon-led-door-in{
+    background-position: -540px -80px;
+}
+
+.icon-led-drawer{
+    background-position: -560px -80px;
+}
+
+.icon-led-drink{
+    background-position: -580px -80px;
+}
+
+.icon-led-drink-empty{
+    background-position: -600px -80px;
+}
+
+.icon-led-drive{
+    background-position: -620px -80px;
+}
+
+.icon-led-drive-burn{
+    background-position: -640px -80px;
+}
+
+.icon-led-drive-cd{
+    background-position: -660px -80px;
+}
+
+.icon-led-drive-cd-empty{
+    background-position: -680px -80px;
+}
+
+.icon-led-drive-delete{
+    background-position: -700px -80px;
+}
+
+.icon-led-drive-disk{
+    background-position: 0 -100px;
+}
+
+.icon-led-drive-error{
+    background-position: -20px -100px;
+}
+
+.icon-led-drive-go{
+    background-position: -40px -100px;
+}
+
+.icon-led-drive-link{
+    background-position: -60px -100px;
+}
+
+.icon-led-drive-network{
+    background-position: -80px -100px;
+}
+
+.icon-led-drive-rename{
+    background-position: -100px -100px;
+}
+
+.icon-led-dvd{
+    background-position: -120px -100px;
+}
+
+.icon-led-email{
+    background-position: -140px -100px;
+}
+
+.icon-led-email-open{
+    background-position: -160px -100px;
+}
+
+.icon-led-email-open-image{
+    background-position: -180px -100px;
+}
+
+.icon-led-emoticon-evilgrin{
+    background-position: -200px -100px;
+}
+
+.icon-led-emoticon-grin{
+    background-position: -220px -100px;
+}
+
+.icon-led-emoticon-happy{
+    background-position: -240px -100px;
+}
+
+.icon-led-emoticon-smile{
+    background-position: -260px -100px;
+}
+
+.icon-led-emoticon-surprised{
+    background-position: -280px -100px;
+}
+
+.icon-led-emoticon-tongue{
+    background-position: -300px -100px;
+}
+
+.icon-led-emoticon-unhappy{
+    background-position: -320px -100px;
+}
+
+.icon-led-emoticon-waii{
+    background-position: -340px -100px;
+}
+
+.icon-led-emoticon-wink{
+    background-position: -360px -100px;
+}
+
+.icon-led-envelope{
+    background-position: -380px -100px;
+}
+
+.icon-led-envelope-2{
+    background-position: -400px -100px;
+}
+
+.icon-led-error{
+    background-position: -420px -100px;
+}
+
+.icon-led-exclamation{
+    background-position: -440px -100px;
+}
+
+.icon-led-exclamation-octagon-fram{
+    background-position: -460px -100px;
+}
+
+.icon-led-eye{
+    background-position: -480px -100px;
+}
+
+.icon-led-feed{
+    background-position: -500px -100px;
+}
+
+.icon-led-feed-ballon{
+    background-position: -520px -100px;
+}
+
+.icon-led-feed-document{
+    background-position: -540px -100px;
+}
+
+.icon-led-female{
+    background-position: -560px -100px;
+}
+
+.icon-led-film{
+    background-position: -580px -100px;
+}
+
+.icon-led-films{
+    background-position: -600px -100px;
+}
+
+.icon-led-find{
+    background-position: -620px -100px;
+}
+
+.icon-led-flag-blue{
+    background-position: -640px -100px;
+}
+
+.icon-led-folder{
+    background-position: -660px -100px;
+}
+
+.icon-led-font{
+    background-position: -680px -100px;
+}
+
+.icon-led-funnel{
+    background-position: -700px -100px;
+}
+
+.icon-led-grid{
+    background-position: 0 -120px;
+}
+
+.icon-led-grid-dot{
+    background-position: -20px -120px;
+}
+
+.icon-led-group{
+    background-position: -40px -120px;
+}
+
+.icon-led-hammer{
+    background-position: -60px -120px;
+}
+
+.icon-led-hammer-screwdriver{
+    background-position: -80px -120px;
+}
+
+.icon-led-hand{
+    background-position: -100px -120px;
+}
+
+.icon-led-hand-point{
+    background-position: -120px -120px;
+}
+
+.icon-led-heart{
+    background-position: -140px -120px;
+}
+
+.icon-led-heart-break{
+    background-position: -160px -120px;
+}
+
+.icon-led-heart-empty{
+    background-position: -180px -120px;
+}
+
+.icon-led-heart-half{
+    background-position: -200px -120px;
+}
+
+.icon-led-heart-small{
+    background-position: -220px -120px;
+    width: 9px;
+    height: 9px;
+}
+
+.icon-led-help{
+    background-position: -240px -120px;
+}
+
+.icon-led-highlighter{
+    background-position: -260px -120px;
+}
+
+.icon-led-house{
+    background-position: -280px -120px;
+}
+
+.icon-led-html{
+    background-position: -300px -120px;
+}
+
+.icon-led-image-1{
+    background-position: -320px -120px;
+}
+
+.icon-led-image-2{
+    background-position: -340px -120px;
+}
+
+.icon-led-images{
+    background-position: -360px -120px;
+}
+
+.icon-led-inbox{
+    background-position: -380px -120px;
+}
+
+.icon-led-ipod{
+    background-position: -400px -120px;
+}
+
+.icon-led-ipod-cast{
+    background-position: -420px -120px;
+}
+
+.icon-led-joystick{
+    background-position: -440px -120px;
+}
+
+.icon-led-key{
+    background-position: -460px -120px;
+}
+
+.icon-led-keyboard{
+    background-position: -480px -120px;
+}
+
+.icon-led-layer-treansparent{
+    background-position: -500px -120px;
+}
+
+.icon-led-layers{
+    background-position: -520px -120px;
+}
+
+.icon-led-layout{
+    background-position: -540px -120px;
+}
+
+.icon-led-layout-header-footer-3{
+    background-position: -560px -120px;
+}
+
+.icon-led-layout-header-footer-3-mix{
+    background-position: -580px -120px;
+}
+
+.icon-led-layout-join{
+    background-position: -600px -120px;
+}
+
+.icon-led-layout-join-vertical{
+    background-position: -620px -120px;
+}
+
+.icon-led-layout-select{
+    background-position: -640px -120px;
+}
+
+.icon-led-layout-select-content{
+    background-position: -660px -120px;
+}
+
+.icon-led-layout-select-footer{
+    background-position: -680px -120px;
+}
+
+.icon-led-layout-select-sidebar{
+    background-position: -700px -120px;
+}
+
+.icon-led-layout-split{
+    background-position: 0 -140px;
+}
+
+.icon-led-layout-split-vertical{
+    background-position: -20px -140px;
+}
+
+.icon-led-lifebuoy{
+    background-position: -40px -140px;
+}
+
+.icon-led-lightbulb{
+    background-position: -60px -140px;
+}
+
+.icon-led-lightbulb-off{
+    background-position: -80px -140px;
+}
+
+.icon-led-lightning{
+    background-position: -100px -140px;
+}
+
+.icon-led-link{
+    background-position: -120px -140px;
+}
+
+.icon-led-link-break{
+    background-position: -140px -140px;
+}
+
+.icon-led-lock{
+    background-position: -160px -140px;
+}
+
+.icon-led-lock-unlock{
+    background-position: -180px -140px;
+}
+
+.icon-led-magnet{
+    background-position: -200px -140px;
+}
+
+.icon-led-magnifier{
+    background-position: -220px -140px;
+}
+
+.icon-led-magnifier-zoom-in{
+    background-position: -240px -140px;
+}
+
+.icon-led-male{
+    background-position: -260px -140px;
+}
+
+.icon-led-map{
+    background-position: -280px -140px;
+}
+
+.icon-led-marker{
+    background-position: -300px -140px;
+}
+
+.icon-led-medal-bronze-1{
+    background-position: -320px -140px;
+}
+
+.icon-led-medal-gold-1{
+    background-position: -340px -140px;
+}
+
+.icon-led-media-player-small-blue{
+    background-position: -360px -140px;
+}
+
+.icon-led-microphone{
+    background-position: -380px -140px;
+}
+
+.icon-led-mobile-phone{
+    background-position: -400px -140px;
+}
+
+.icon-led-money{
+    background-position: -420px -140px;
+}
+
+.icon-led-money-dollar{
+    background-position: -440px -140px;
+}
+
+.icon-led-money-euro{
+    background-position: -460px -140px;
+}
+
+.icon-led-money-pound{
+    background-position: -480px -140px;
+}
+
+.icon-led-money-yen{
+    background-position: -500px -140px;
+}
+
+.icon-led-monitor{
+    background-position: -520px -140px;
+}
+
+.icon-led-mouse{
+    background-position: -540px -140px;
+}
+
+.icon-led-music{
+    background-position: -560px -140px;
+}
+
+.icon-led-music-beam{
+    background-position: -580px -140px;
+}
+
+.icon-led-neutral{
+    background-position: -600px -140px;
+}
+
+.icon-led-new{
+    background-position: -620px -140px;
+}
+
+.icon-led-newspaper{
+    background-position: -640px -140px;
+}
+
+.icon-led-note{
+    background-position: -660px -140px;
+}
+
+.icon-led-nuclear{
+    background-position: -680px -140px;
+}
+
+.icon-led-package{
+    background-position: -700px -140px;
+}
+
+.icon-led-page{
+    background-position: 0 -160px;
+}
+
+.icon-led-page-2{
+    background-position: -20px -160px;
+}
+
+.icon-led-page-2-copy{
+    background-position: -40px -160px;
+}
+
+.icon-led-page-code{
+    background-position: -60px -160px;
+}
+
+.icon-led-page-copy{
+    background-position: -80px -160px;
+}
+
+.icon-led-page-excel{
+    background-position: -100px -160px;
+}
+
+.icon-led-page-lightning{
+    background-position: -120px -160px;
+}
+
+.icon-led-page-paste{
+    background-position: -140px -160px;
+}
+
+.icon-led-page-red{
+    background-position: -160px -160px;
+}
+
+.icon-led-page-refresh{
+    background-position: -180px -160px;
+}
+
+.icon-led-page-save{
+    background-position: -200px -160px;
+}
+
+.icon-led-page-white-cplusplus{
+    background-position: -220px -160px;
+}
+
+.icon-led-page-white-csharp{
+    background-position: -240px -160px;
+}
+
+.icon-led-page-white-cup{
+    background-position: -260px -160px;
+}
+
+.icon-led-page-white-database{
+    background-position: -280px -160px;
+}
+
+.icon-led-page-white-delete{
+    background-position: -300px -160px;
+}
+
+.icon-led-page-white-dvd{
+    background-position: -320px -160px;
+}
+
+.icon-led-page-white-edit{
+    background-position: -340px -160px;
+}
+
+.icon-led-page-white-error{
+    background-position: -360px -160px;
+}
+
+.icon-led-page-white-excel{
+    background-position: -380px -160px;
+}
+
+.icon-led-page-white-find{
+    background-position: -400px -160px;
+}
+
+.icon-led-page-white-flash{
+    background-position: -420px -160px;
+}
+
+.icon-led-page-white-freehand{
+    background-position: -440px -160px;
+}
+
+.icon-led-page-white-gear{
+    background-position: -460px -160px;
+}
+
+.icon-led-page-white-get{
+    background-position: -480px -160px;
+}
+
+.icon-led-page-white-paintbrush{
+    background-position: -500px -160px;
+}
+
+.icon-led-page-white-paste{
+    background-position: -520px -160px;
+}
+
+.icon-led-page-white-php{
+    background-position: -540px -160px;
+}
+
+.icon-led-page-white-picture{
+    background-position: -560px -160px;
+}
+
+.icon-led-page-white-powerpoint{
+    background-position: -580px -160px;
+}
+
+.icon-led-page-white-put{
+    background-position: -600px -160px;
+}
+
+.icon-led-page-white-ruby{
+    background-position: -620px -160px;
+}
+
+.icon-led-page-white-stack{
+    background-position: -640px -160px;
+}
+
+.icon-led-page-white-star{
+    background-position: -660px -160px;
+}
+
+.icon-led-page-white-swoosh{
+    background-position: -680px -160px;
+}
+
+.icon-led-page-white-text{
+    background-position: -700px -160px;
+}
+
+.icon-led-page-white-text-width{
+    background-position: 0 -180px;
+}
+
+.icon-led-page-white-tux{
+    background-position: -20px -180px;
+}
+
+.icon-led-page-white-vector{
+    background-position: -40px -180px;
+}
+
+.icon-led-page-white-visualstudio{
+    background-position: -60px -180px;
+}
+
+.icon-led-page-white-width{
+    background-position: -80px -180px;
+}
+
+.icon-led-page-white-word{
+    background-position: -100px -180px;
+}
+
+.icon-led-page-white-world{
+    background-position: -120px -180px;
+}
+
+.icon-led-page-white-wrench{
+    background-position: -140px -180px;
+}
+
+.icon-led-page-white-zip{
+    background-position: -160px -180px;
+}
+
+.icon-led-paintbrush{
+    background-position: -180px -180px;
+}
+
+.icon-led-paintcan{
+    background-position: -200px -180px;
+}
+
+.icon-led-palette{
+    background-position: -220px -180px;
+}
+
+.icon-led-paper-bag{
+    background-position: -240px -180px;
+}
+
+.icon-led-paste-plain{
+    background-position: -260px -180px;
+}
+
+.icon-led-paste-word{
+    background-position: -280px -180px;
+}
+
+.icon-led-pencil{
+    background-position: -300px -180px;
+}
+
+.icon-led-photo{
+    background-position: -320px -180px;
+}
+
+.icon-led-photo-album{
+    background-position: -340px -180px;
+}
+
+.icon-led-photos{
+    background-position: -360px -180px;
+}
+
+.icon-led-piano{
+    background-position: -380px -180px;
+}
+
+.icon-led-picture{
+    background-position: -400px -180px;
+}
+
+.icon-led-pilcrow{
+    background-position: -420px -180px;
+}
+
+.icon-led-pill{
+    background-position: -440px -180px;
+}
+
+.icon-led-pin{
+    background-position: -460px -180px;
+}
+
+.icon-led-pipette{
+    background-position: -480px -180px;
+}
+
+.icon-led-plaing-card{
+    background-position: -500px -180px;
+}
+
+.icon-led-plug{
+    background-position: -520px -180px;
+}
+
+.icon-led-plugin{
+    background-position: -540px -180px;
+}
+
+.icon-led-printer{
+    background-position: -560px -180px;
+}
+
+.icon-led-projection-screen{
+    background-position: -580px -180px;
+}
+
+.icon-led-projection-screen-present{
+    background-position: -600px -180px;
+}
+
+.icon-led-rainbow{
+    background-position: -620px -180px;
+}
+
+.icon-led-report{
+    background-position: -640px -180px;
+}
+
+.icon-led-rocket{
+    background-position: -660px -180px;
+}
+
+.icon-led-rosette{
+    background-position: -680px -180px;
+}
+
+.icon-led-rss{
+    background-position: -700px -180px;
+}
+
+.icon-led-ruby{
+    background-position: 0 -200px;
+}
+
+.icon-led-ruler-1{
+    background-position: -20px -200px;
+}
+
+.icon-led-ruler-2{
+    background-position: -40px -200px;
+}
+
+.icon-led-ruler-crop{
+    background-position: -60px -200px;
+}
+
+.icon-led-ruler-triangle{
+    background-position: -80px -200px;
+}
+
+.icon-led-safe{
+    background-position: -100px -200px;
+}
+
+.icon-led-script{
+    background-position: -120px -200px;
+}
+
+.icon-led-selection{
+    background-position: -140px -200px;
+}
+
+.icon-led-selection-select{
+    background-position: -160px -200px;
+}
+
+.icon-led-server{
+    background-position: -180px -200px;
+}
+
+.icon-led-shading{
+    background-position: -200px -200px;
+}
+
+.icon-led-shape-align-bottom{
+    background-position: -220px -200px;
+}
+
+.icon-led-shape-align-center{
+    background-position: -240px -200px;
+}
+
+.icon-led-shape-align-left{
+    background-position: -260px -200px;
+}
+
+.icon-led-shape-align-middle{
+    background-position: -280px -200px;
+}
+
+.icon-led-shape-align-right{
+    background-position: -300px -200px;
+}
+
+.icon-led-shape-align-top{
+    background-position: -320px -200px;
+}
+
+.icon-led-shape-flip-horizontal{
+    background-position: -340px -200px;
+}
+
+.icon-led-shape-flip-vertical{
+    background-position: -360px -200px;
+}
+
+.icon-led-shape-group{
+    background-position: -380px -200px;
+}
+
+.icon-led-shape-handles{
+    background-position: -400px -200px;
+}
+
+.icon-led-shape-move-back{
+    background-position: -420px -200px;
+}
+
+.icon-led-shape-move-backwards{
+    background-position: -440px -200px;
+}
+
+.icon-led-shape-move-forwards{
+    background-position: -460px -200px;
+}
+
+.icon-led-shape-move-front{
+    background-position: -480px -200px;
+}
+
+.icon-led-shape-square{
+    background-position: -500px -200px;
+}
+
+.icon-led-shield{
+    background-position: -520px -200px;
+}
+
+.icon-led-sitemap{
+    background-position: -540px -200px;
+}
+
+.icon-led-slide{
+    background-position: -560px -200px;
+}
+
+.icon-led-slides{
+    background-position: -580px -200px;
+}
+
+.icon-led-slides-stack{
+    background-position: -600px -200px;
+}
+
+.icon-led-smiley-confuse{
+    background-position: -620px -200px;
+}
+
+.icon-led-smiley-cool{
+    background-position: -640px -200px;
+}
+
+.icon-led-smiley-cry{
+    background-position: -660px -200px;
+}
+
+.icon-led-smiley-fat{
+    background-position: -680px -200px;
+}
+
+.icon-led-smiley-mad{
+    background-position: -700px -200px;
+}
+
+.icon-led-smiley-red{
+    background-position: 0 -220px;
+}
+
+.icon-led-smiley-roll{
+    background-position: -20px -220px;
+}
+
+.icon-led-smiley-slim{
+    background-position: -40px -220px;
+}
+
+.icon-led-smiley-yell{
+    background-position: -60px -220px;
+}
+
+.icon-led-socket{
+    background-position: -80px -220px;
+}
+
+.icon-led-sockets{
+    background-position: -100px -220px;
+}
+
+.icon-led-sort{
+    background-position: -120px -220px;
+}
+
+.icon-led-sort-alphabet{
+    background-position: -140px -220px;
+}
+
+.icon-led-sort-date{
+    background-position: -160px -220px;
+}
+
+.icon-led-sort-disable{
+    background-position: -180px -220px;
+}
+
+.icon-led-sort-number{
+    background-position: -200px -220px;
+}
+
+.icon-led-sort-price{
+    background-position: -220px -220px;
+}
+
+.icon-led-sort-quantity{
+    background-position: -240px -220px;
+}
+
+.icon-led-sort-rating{
+    background-position: -260px -220px;
+}
+
+.icon-led-sound{
+    background-position: -280px -220px;
+}
+
+.icon-led-sound-note{
+    background-position: -300px -220px;
+}
+
+.icon-led-spellcheck{
+    background-position: -320px -220px;
+}
+
+.icon-led-sport-8ball{
+    background-position: -340px -220px;
+}
+
+.icon-led-sport-basketball{
+    background-position: -360px -220px;
+}
+
+.icon-led-sport-football{
+    background-position: -380px -220px;
+}
+
+.icon-led-sport-golf{
+    background-position: -400px -220px;
+}
+
+.icon-led-sport-raquet{
+    background-position: -420px -220px;
+}
+
+.icon-led-sport-shuttlecock{
+    background-position: -440px -220px;
+}
+
+.icon-led-sport-soccer{
+    background-position: -460px -220px;
+}
+
+.icon-led-sport-tennis{
+    background-position: -480px -220px;
+}
+
+.icon-led-stamp{
+    background-position: -500px -220px;
+}
+
+.icon-led-star-1{
+    background-position: -520px -220px;
+}
+
+.icon-led-star-2{
+    background-position: -540px -220px;
+}
+
+.icon-led-status-online{
+    background-position: -560px -220px;
+}
+
+.icon-led-stop{
+    background-position: -580px -220px;
+}
+
+.icon-led-style{
+    background-position: -600px -220px;
+}
+
+.icon-led-sum{
+    background-position: -620px -220px;
+}
+
+.icon-led-sum-2{
+    background-position: -640px -220px;
+}
+
+.icon-led-switch{
+    background-position: -660px -220px;
+}
+
+.icon-led-tab{
+    background-position: -680px -220px;
+}
+
+.icon-led-table{
+    background-position: -700px -220px;
+}
+
+.icon-led-tag{
+    background-position: 0 -240px;
+}
+
+.icon-led-tag-blue{
+    background-position: -20px -240px;
+}
+
+.icon-led-target{
+    background-position: -40px -240px;
+}
+
+.icon-led-telephone{
+    background-position: -60px -240px;
+}
+
+.icon-led-television{
+    background-position: -80px -240px;
+}
+
+.icon-led-text-align-center{
+    background-position: -100px -240px;
+}
+
+.icon-led-text-align-justify{
+    background-position: -120px -240px;
+}
+
+.icon-led-text-align-left{
+    background-position: -140px -240px;
+}
+
+.icon-led-text-align-right{
+    background-position: -160px -240px;
+}
+
+.icon-led-text-allcaps{
+    background-position: -180px -240px;
+}
+
+.icon-led-text-bold{
+    background-position: -200px -240px;
+}
+
+.icon-led-text-columns{
+    background-position: -220px -240px;
+}
+
+.icon-led-text-dropcaps{
+    background-position: -240px -240px;
+}
+
+.icon-led-text-heading-1{
+    background-position: -260px -240px;
+}
+
+.icon-led-text-horizontalrule{
+    background-position: -280px -240px;
+}
+
+.icon-led-text-indent{
+    background-position: -300px -240px;
+}
+
+.icon-led-text-indent-remove{
+    background-position: -320px -240px;
+}
+
+.icon-led-text-italic{
+    background-position: -340px -240px;
+}
+
+.icon-led-text-kerning{
+    background-position: -360px -240px;
+}
+
+.icon-led-text-letter-omega{
+    background-position: -380px -240px;
+}
+
+.icon-led-text-letterspacing{
+    background-position: -400px -240px;
+}
+
+.icon-led-text-linespacing{
+    background-position: -420px -240px;
+}
+
+.icon-led-text-list-bullets{
+    background-position: -440px -240px;
+}
+
+.icon-led-text-list-numbers{
+    background-position: -460px -240px;
+}
+
+.icon-led-text-lowercase{
+    background-position: -480px -240px;
+}
+
+.icon-led-text-padding-bottom{
+    background-position: -500px -240px;
+}
+
+.icon-led-text-padding-left{
+    background-position: -520px -240px;
+}
+
+.icon-led-text-padding-right{
+    background-position: -540px -240px;
+}
+
+.icon-led-text-padding-top{
+    background-position: -560px -240px;
+}
+
+.icon-led-text-signature{
+    background-position: -580px -240px;
+}
+
+.icon-led-text-smallcaps{
+    background-position: -600px -240px;
+}
+
+.icon-led-text-strikethrough{
+    background-position: -620px -240px;
+}
+
+.icon-led-text-subscript{
+    background-position: -640px -240px;
+}
+
+.icon-led-textfield{
+    background-position: -660px -240px;
+}
+
+.icon-led-textfield-rename{
+    background-position: -680px -240px;
+}
+
+.icon-led-ticket{
+    background-position: -700px -240px;
+}
+
+.icon-led-timeline-marker{
+    background-position: 0 -260px;
+}
+
+.icon-led-traffic{
+    background-position: -20px -260px;
+}
+
+.icon-led-transmit{
+    background-position: -40px -260px;
+}
+
+.icon-led-trophy{
+    background-position: -60px -260px;
+}
+
+.icon-led-trophy-bronze{
+    background-position: -80px -260px;
+}
+
+.icon-led-trophy-silver{
+    background-position: -100px -260px;
+}
+
+.icon-led-ui-combo-box{
+    background-position: -120px -260px;
+}
+
+.icon-led-ui-saccordion{
+    background-position: -140px -260px;
+}
+
+.icon-led-ui-slider-1{
+    background-position: -160px -260px;
+}
+
+.icon-led-ui-slider-2{
+    background-position: -180px -260px;
+}
+
+.icon-led-ui-tab-bottom{
+    background-position: -200px -260px;
+}
+
+.icon-led-ui-tab-content{
+    background-position: -220px -260px;
+}
+
+.icon-led-ui-tab-disable{
+    background-position: -240px -260px;
+}
+
+.icon-led-ui-tab-side{
+    background-position: -260px -260px;
+}
+
+.icon-led-ui-text-field-hidden{
+    background-position: -280px -260px;
+}
+
+.icon-led-ui-text-field-password{
+    background-position: -300px -260px;
+}
+
+.icon-led-umbrella{
+    background-position: -320px -260px;
+}
+
+.icon-led-user{
+    background-position: -340px -260px;
+}
+
+.icon-led-user-black-female{
+    background-position: -360px -260px;
+}
+
+.icon-led-user-business{
+    background-position: -380px -260px;
+}
+
+.icon-led-user-business-boss{
+    background-position: -400px -260px;
+}
+
+.icon-led-user-female{
+    background-position: -420px -260px;
+}
+
+.icon-led-user-silhouette{
+    background-position: -440px -260px;
+}
+
+.icon-led-user-thief{
+    background-position: -460px -260px;
+}
+
+.icon-led-user-thief-baldie{
+    background-position: -480px -260px;
+}
+
+.icon-led-vcard{
+    background-position: -500px -260px;
+}
+
+.icon-led-vector{
+    background-position: -520px -260px;
+}
+
+.icon-led-wait{
+    background-position: -540px -260px;
+}
+
+.icon-led-wall{
+    background-position: -560px -260px;
+}
+
+.icon-led-wall-break{
+    background-position: -580px -260px;
+}
+
+.icon-led-wall-brick{
+    background-position: -600px -260px;
+}
+
+.icon-led-wall-disable{
+    background-position: -620px -260px;
+}
+
+.icon-led-wand{
+    background-position: -640px -260px;
+}
+
+.icon-led-weather-clouds{
+    background-position: -660px -260px;
+}
+
+.icon-led-weather-cloudy{
+    background-position: -680px -260px;
+}
+
+.icon-led-weather-lightning{
+    background-position: -700px -260px;
+}
+
+.icon-led-weather-rain{
+    background-position: 0 -280px;
+}
+
+.icon-led-weather-snow{
+    background-position: -20px -280px;
+}
+
+.icon-led-weather-sun{
+    background-position: -40px -280px;
+}
+
+.icon-led-webcam{
+    background-position: -60px -280px;
+}
+
+.icon-led-world{
+    background-position: -80px -280px;
+}
+
+.icon-led-zone{
+    background-position: -100px -280px;
+}
+
+.icon-led-zone-money{
+    background-position: -120px -280px;
+}
+
+.icon-led-zones{
+    background-position: -140px -280px;
+}
+
