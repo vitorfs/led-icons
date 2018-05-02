@@ -7,4 +7,4 @@ LED Icon Set sprites and css for web applications
 
 ## CSS Class References
 
-http://vitorfs.com/led-icons/
+http://vitorfs.github.io/led-icons/
